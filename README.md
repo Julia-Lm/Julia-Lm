@@ -8,13 +8,13 @@
 
 ### PayGears Corporation:
 
-#### <a href="https://paygears.com/" target="_blank">paygears.com</a> — The official website of **PayGears Corporation**, a company that helps businesses build and launch financial products. Built with **Next.js** for server-side rendering, styled components, and enhanced with **Lottie animations** for a dynamic user experience.
+#### [paygears.com](https://paygears.com/) — The official website of **PayGears Corporation**, a company that helps businesses build and launch financial products. Built with **Next.js** for server-side rendering, styled components, and enhanced with **Lottie animations** for a dynamic user experience.
 
-#### <a href="https://docs.paygears.com/" target="_blank">docs.paygears.com</a> — The official **documentation portal** for PayGears Corporation. Built using **McDocs (HTML, CSS)** for a structured and intuitive layout.
+#### [docs.paygears.com](https://docs.paygears.com/) — The official **documentation portal** for PayGears Corporation. Built using **McDocs (HTML, CSS)** for a structured and intuitive layout.
 
-#### <a href="https://paygears.com/open-banking-api" target="_blank">Web platforms to Open Banking APIs</a> — A **dedicated platforms** for Open Banking API solutions, which enables businesses to connect with financial institutions, payment providers, and banking services. The platforms are developed using **React.js, TypeScript, MobX, Styled Components, and Ant Design**, following the **Feature-Sliced Design (FSD) architecture** to ensure modularity, scalability, and maintainability.
+#### [Web platforms to Open Banking APIs](https://paygears.com/open-banking-api) — A **dedicated platforms** for Open Banking API solutions, which enables businesses to connect with financial institutions, payment providers, and banking services. The platforms are developed using **React.js, TypeScript, MobX, Styled Components, and Ant Design**, following the **Feature-Sliced Design (FSD) architecture** to ensure modularity, scalability, and maintainability.
 
-#### <a href="https://paygears.com/news/payment-link-news" target="_blank">Payment Links</a> — A **payment link** is a simple way for merchants to request payments online through a clickable link, button, or QR code. Developed using **React.js, TypeScript, MobX, Styled Components, and Ant Design**, following the **Feature-Sliced Design (FSD) architecture** for scalability and maintainability.
+#### [Payment Links](https://paygears.com/news/payment-link-news) — A **payment link** is a simple way for merchants to request payments online through a clickable link, button, or QR code. Developed using **React.js, TypeScript, MobX, Styled Components, and Ant Design**, following the **Feature-Sliced Design (FSD) architecture** for scalability and maintainability.
 
 ###
 
