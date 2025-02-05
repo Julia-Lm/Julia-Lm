@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm a Front-End Developer
 
-#### I have 3+ years of experience in front-end development, including 2+ years of commercial experience developing web applications for a banking software platform. Skilled in building websites with Next.js and developing projects using React.js and Feature-Sliced Design architecture. Successfully made impactful contributions to projects and played a key role in designing architectures from scratch.
+#### I have 3+ years of experience in front-end development, including 2+ years of commercial experience in developing web applications for a banking software platform using React.js, and building websites with Next.js. I have successfully made impactful contributions to projects and have been involved in developing architecture from scratch on projects.
 
 ###
 
