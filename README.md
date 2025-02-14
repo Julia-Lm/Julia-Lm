@@ -60,7 +60,7 @@
     </td>
         <td align="center" width="88">
        <img src="./assets/icons/material.svg" alt="Material.js" width="44" height="44"/>
-      <br>Material.js
+      <br>Material UI
       </td>
       <td align="center" width="88">
         <img src="./assets/icons/figma.svg" alt="Figma" width="44" height="44"/>
@@ -98,7 +98,7 @@
      </td>
   <td align="center" width="88">
   <img src="./assets/icons/vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>Visual Studio Code
+      <br>VSCode
      </td>
   <td align="center" width="88">
   <img src="./assets/icons/web-storm.svg" alt="WebStorm" width="44" height="44"/>
