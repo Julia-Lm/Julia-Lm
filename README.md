@@ -150,7 +150,8 @@
 
 ### GitHub Stats :
 
-<table align="center">
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center" style="overflow:visible">
   <tr>
   <td>
   <a href="https://github.com/Julia-Lm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Julia-Lm&show_icons=true&include_all_commits=true&hide_border=true" alt="Yuliia Liamets github stats" /></a>
@@ -161,6 +162,8 @@
   </tr>
   <tr>
 </table>
+</div>
+
 
 ###
 
